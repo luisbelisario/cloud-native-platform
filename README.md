@@ -38,8 +38,7 @@ make test
 
 ## Documentação
 
-- [Backlog do projeto](https://github.com/luissantos/llm-devops-studies/blob/main/backlog-projeto-cloud-native.md)
-- [Roadmap Cloud Engineer → LLMOps 2026](https://github.com/luissantos/llm-devops-studies/blob/main/roadmap-cloud-llmops-2026.md)
+- [Backlog do projeto](docs/backlog.md)
 
 ## Licença
 

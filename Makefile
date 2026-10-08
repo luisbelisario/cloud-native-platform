@@ -1,5 +1,8 @@
 .PHONY: help lint test build clean install-tools fmt typecheck ensure-tools
 
+# Workaround para macOS 26 + Homebrew Python (libexpat)
+export DYLD_LIBRARY_PATH := /opt/homebrew/opt/expat/lib$(DYLD_LIBRARY_PATH:%=:%)
+
 VENV := .venv
 PYTHON := $(VENV)/bin/python
 RUFF_VENV := $(VENV)/bin/ruff
