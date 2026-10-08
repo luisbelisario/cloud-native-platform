@@ -1,7 +1,5 @@
 # Backlog — Projeto Integrador Cloud-Native
 
-> Projeto vinculado ao [Roadmap Cloud Engineer → LLMOps 2026](roadmap-cloud-llmops-2026.md).
->
 > Cada item do backlog é uma unidade independente de implementação, delegável a um agente separado.
 > O judge (orquestrador) revisa cada entrega contra os critérios de aceitação antes de promover o item a `done`.
 
